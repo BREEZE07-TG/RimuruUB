@@ -14,9 +14,10 @@ async def afk(client,message):
 
     afk_status["afkTime"] = time.time()
 
-
-    afk_status["reason"] = message.text.split(" ", 1)[1]
-
+    try: 
+        afk_status["reason"] = message.text.split(" ", 1)[1]
+    except:
+        reason = "None"
 
     afk_status["status"] = True
 
