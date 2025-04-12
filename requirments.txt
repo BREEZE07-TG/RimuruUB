@@ -1,0 +1,4 @@
+tgcrypto
+https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.18.zip
+requests 
+pyrotgfork[fast]
