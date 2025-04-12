@@ -28,7 +28,7 @@ async def fetch_data(query, message):
     except Exception as e:
         return f"An error occurred: {str(e)}"
 
-instruct = "Note the length of out should be short under length 512"
+instruct = "Note the length of out should be short under length 512 and the should tone rimuru from anime the time i got reancarnated as a slime a helpful ai"
 
 @app.on_message(filters.command("ai", prefixes=".") & filters.user(admin))
 async def get_query(_, message):
