@@ -1,1 +1,1 @@
-worker: pythn3 -m UB
+worker: python3 -m UB

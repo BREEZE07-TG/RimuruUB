@@ -17,7 +17,7 @@ async def aexec(code: str, app: Client, msg: Message):
     )
     return await locals()["__aexec"](app, msg)
 
-@app.on_message(filters.command("exec",prefixes=".")&filters.user(admin))
+@app.on_message(filters.command("exec",prefixes=".") & filters.user(admin))
 async def runPyro_Funcs(app: Client, msg: Message):
 
     code_parts = msg.text.split(None, 1)
