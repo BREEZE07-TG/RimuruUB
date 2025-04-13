@@ -1,3 +1,4 @@
 api_id = ""
 api_hash = ""
-admin = 
+admin = ""
+string_session = ""

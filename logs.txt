@@ -1,0 +1,433 @@
+[UB]:Start creating a new auth key on DC2
+[UB]:Connecting...
+[UB]:Connected! Production DC2 - IPv4 - TCPAbridgedO
+[UB]:Done auth key exchange: DhGenOk
+[UB]:Disconnected
+[UB]:Connecting...
+[UB]:Connected! Production DC2 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:PingTask stopped
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Start creating a new auth key on DC2
+[UB]:Connecting...
+[UB]:Connected! Production DC2 - IPv4 - TCPAbridgedO
+[UB]:Done auth key exchange: DhGenOk
+[UB]:Disconnected
+[UB]:Connecting...
+[UB]:Connected! Production DC2 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC2 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC2 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:PingTask stopped
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Start creating a new auth key on DC5
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:Done auth key exchange: DhGenOk
+[UB]:Disconnected
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Stopped 8 HandlerTasks
+[UB]:PingTask stopped
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Stopped 8 HandlerTasks
+[UB]:PingTask stopped
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Stopped 8 HandlerTasks
+[UB]:PingTask stopped
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Stopped 8 HandlerTasks
+[UB]:PingTask stopped
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Stopped 8 HandlerTasks
+[UB]:PingTask stopped
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Stopped 8 HandlerTasks
+[UB]:PingTask stopped
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:'Message' object has no attribute 'file_id'
+Traceback (most recent call last):
+  File "/home/sidharth/anaconda3/lib/python3.11/site-packages/pyrogram/dispatcher.py", line 346, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/sidharth/Desktop/RimuruUB/module/read.py", line 8, in read
+    file = msg.reply_to_message.file_id
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'file_id'
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Unclosed tags: <code> (x1)
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Unclosed tags: <code> (x1)
+[UB]:Unclosed tags: <code> (x1)
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Disconnected
+[UB]:NetworkTask stopped
+[UB]:Session stopped
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Stop signal received (SIGINT). Exiting...
+[UB]:Connecting...
+[UB]:Connected! Production DC5 - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:[userBot] No plugin loaded from "module"
+[UB]:Started 8 HandlerTasks
+[UB]:Connecting...
+[UB]:Connected! Production DC5 (media) - IPv4 - TCPAbridgedO
+[UB]:NetworkTask started
+[UB]:Session initialized: Layer 195
+[UB]:Device: CPython 3.11.11 - Pyrogram 2.2.2
+[UB]:System: Linux 6.8.0-49-generic (EN)
+[UB]:Session started
+[UB]:PingTask started
+[UB]:Stop signal received (SIGINT). Exiting...
