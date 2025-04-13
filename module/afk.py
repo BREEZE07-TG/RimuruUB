@@ -53,8 +53,5 @@ async def alive(client,message):
     time_str = f"{hours:02}:{min:02}:{sec:02}"
     afk_status["status"] = False
 
-<<<<<<< HEAD
     await message.reply(f"Welcome Back!\nYou were offline since {time_str}")
-=======
-    await message.reply(f"Welcome Back!\nYou were offline since {time_str}")
->>>>>>> 5fca0ec5c74cc8cfeb0c531b63313a4ca2d75379
+
